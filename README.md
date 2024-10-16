@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# bmi
+# BMI Calculator
 Calculate your BMI and track your health with this easy-to-use app.
 =======
 # bmicalculator
